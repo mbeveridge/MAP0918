@@ -12,8 +12,13 @@ This week, we’ll talk about the basic principles of map-making and what kind o
 * The different types of geographic data — vector points, lines and shapes and raster images, and how to open and manipulate spatial data in QGIS.
 
 
-### Module 2: 
+### Module 2: Combining geographic data
+This week, we’ll dig into how and why journalists combine geographic datasets with other data to tell really great stories. You will learn:
 
+* When and why to put multiple pieces of data on the same map.
+* How to geocode data and make a dot map.
+* How to join datasets together inside QGIS to make something with a sum greater than its parts.
+* How to edit data in QGIS to make adjustments on the fly.
 
 
 ### Module 3: 
