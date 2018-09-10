@@ -22,7 +22,10 @@ This week, we’ll dig into how and why journalists combine geographic datasets 
 
 
 ### Module 3: 
+This week, we will dive deeper into how you can analyze data to make more complex maps. We’ll talk about how to draw story-worthy conclusions from what you find. You will learn:
 
+* How two Washington Post journalists analyzed racial data to create amazingly detailed dot-density segregation maps — and how to use this technique with your own data.
+* Three useful ways to analyze data in QGIS: points in a polygon, dot density and point buffers.
 
 
 ### Module 4: 
