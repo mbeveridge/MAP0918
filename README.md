@@ -29,6 +29,11 @@ This week, we will dive deeper into how you can analyze data to make more comple
 
 
 ### Module 4: 
+This week, we will talk about visualizing data and learn some design principles to keep in mind when publishing maps online or in print. We’ll also discuss how to take your new geographic skills to the next level.You will learn:
 
+* How to avoid accidentally making a population density map.
+* Two methods for simplifying data.  
+* How to export a map from QGIS and next steps to get it ready for publication.
+* What digital publication tools journalists & media practitioners use to tell stories with maps on the internet.
 
 
