@@ -36,4 +36,6 @@ This week, we will talk about visualizing data and learn some design principles 
 * How to export a map from QGIS and next steps to get it ready for publication.
 * What digital publication tools journalists & media practitioners use to tell stories with maps on the internet.
 
+---
 
+![certificate](MAP0918_Certificate.png "certificate")
